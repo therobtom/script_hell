@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C6738BFD-552D-FB2E-B284-C3C6F6D596E2}") = "Scipt shooter", "Assembly-CSharp-firstpass.csproj", "{0CF3D059-4B89-121D-A7BD-B38BC489D751}"
+EndProject
+Project("{C6738BFD-552D-FB2E-B284-C3C6F6D596E2}") = "Scipt shooter", "Assembly-CSharp.csproj", "{646E4196-EA52-F7FB-57F0-F73DD22743FC}"
+EndProject
+Project("{C6738BFD-552D-FB2E-B284-C3C6F6D596E2}") = "Scipt shooter", "Assembly-CSharp-Editor.csproj", "{2CF64345-99AF-0119-856A-A5F6884C4A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CF3D059-4B89-121D-A7BD-B38BC489D751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF3D059-4B89-121D-A7BD-B38BC489D751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF3D059-4B89-121D-A7BD-B38BC489D751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF3D059-4B89-121D-A7BD-B38BC489D751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646E4196-EA52-F7FB-57F0-F73DD22743FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646E4196-EA52-F7FB-57F0-F73DD22743FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646E4196-EA52-F7FB-57F0-F73DD22743FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646E4196-EA52-F7FB-57F0-F73DD22743FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF64345-99AF-0119-856A-A5F6884C4A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF64345-99AF-0119-856A-A5F6884C4A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF64345-99AF-0119-856A-A5F6884C4A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF64345-99AF-0119-856A-A5F6884C4A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
